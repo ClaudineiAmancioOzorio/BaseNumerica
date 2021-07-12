@@ -1,3 +1,3 @@
 # Base Numérica
 
-## Programa Converte Input para Binario, Octal ou Hexadecimal.
+## Programa Converte Input para Binário, Octal ou Hexadecimal.
